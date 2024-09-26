@@ -5,12 +5,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 700px
+    height: 700px;
     margin: 0;
 }
 
 button {
-    background0-color: lightgray;
+    background-color: lightgray;
     color: gray;
     font-family: "Fredoka", sans-serif;
 }
