@@ -11,6 +11,14 @@ body{
 
 button{
     background-color: #ffe4c4;
-    color: white; 
+    color: aliceblue; 
     font-family: "Fredoka", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
 }
