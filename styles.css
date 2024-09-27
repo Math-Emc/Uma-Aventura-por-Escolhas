@@ -1,5 +1,5 @@
 body{
-   background-color: aquamarine;
+   background-color: #7fffd4;
    color: aliceblue;
    font-family: "Fredoka", sans-serif;
    display: flex;
@@ -10,7 +10,7 @@ body{
 }
 
 button{
-    background-color: bisque;
+    background-color: #ffe4c4;
     color: white; 
     font-family: "Fredoka", sans-serif;
 }
