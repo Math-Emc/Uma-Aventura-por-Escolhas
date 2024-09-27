@@ -1,6 +1,6 @@
 body{
    background-color: #42cfa0;
-   color: darkgray;
+   color: #5f5959;
    font-family: "Fredoka", sans-serif;
    display: flex;
    justify-content: center;
@@ -11,7 +11,7 @@ body{
 
 button{
     background-color: #f8dab4;
-    color: darkgray; 
+    color: #5f5959; 
     font-family: "Fredoka", sans-serif;
 }
 
